@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-
+//sample text
 
 class allocator
 {
